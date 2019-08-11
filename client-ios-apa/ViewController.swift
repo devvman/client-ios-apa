@@ -8,13 +8,12 @@
 
 import UIKit
 
+/// An object that manages a view hierarchy for your UIKit app.
 class ViewController: UIViewController {
 
+    /// Do any additional setup after loading the view.
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
 
