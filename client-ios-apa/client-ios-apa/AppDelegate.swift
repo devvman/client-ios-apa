@@ -8,7 +8,7 @@
 
 import UIKit
 
-/// TEST APP NOW
+/// TEST APP
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     /// The backdrop for your app’s user interface and the object that dispatches events to your views.
