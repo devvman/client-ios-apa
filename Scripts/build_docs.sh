@@ -17,6 +17,9 @@ if which jazzy >/dev/null; then
         --source-directory 'client-ios-apa/' \
         --readme 'client-ios-apa/README.md' \
         --output 'docs/'
+
+     ln -s ./docs/index.html index.html
+
     exit
 else
     echo "

@@ -1,0 +1,4 @@
+[submodule "client-ios-apa"]
+	path = client-ios-apa
+	url = https://github.com/devvman/client-ios-apa.git
+	branch = master

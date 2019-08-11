@@ -1,0 +1,33 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-apa/client-ios-apa/client-ios-apa/AppDelegate.swift",
+      "line": 28,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-apa/client-ios-apa/client-ios-apa/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-apa/client-ios-apa/client-ios-apa/AppDelegate.swift",
+      "line": 37,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-apa/client-ios-apa/client-ios-apa/AppDelegate.swift",
+      "line": 41,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/iteamadmin/Documents/Core/Private/client-ios-apa/client-ios-apa"
+}
