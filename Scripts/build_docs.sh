@@ -19,7 +19,7 @@ if which jazzy >/dev/null; then
         --output 'docs/'
 
     ./scripts/cleanup_docs.sh
-    mv  -f ./docs/* ./
+    mv -f ./docs/* ./
     rm -R docs
 
     exit
