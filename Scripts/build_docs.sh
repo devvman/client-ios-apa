@@ -18,7 +18,9 @@ if which jazzy >/dev/null; then
         --readme 'client-ios-apa/README.md' \
         --output 'docs/'
 
-     ln -s ./docs/index.html index.html
+    ./scripts/cleanup_docs.sh
+    mv  -f ./docs/* ./
+    rm -R docs
 
     exit
 else
